@@ -1,6 +1,6 @@
 SnakeGameJava
 =============
-NOTE:  This was one of the first things I ever wrote in Java, and now looking back I see how terribly coded it is.  It should be better broken down into more classes, use better variable names and just not be so ugly to read.  Maybe I'll go back and fix it eventually.
+NOTE:  This was one of the first things I ever wrote in Java, and now looking back I see how terribly coded it is. I'm going to keep the repo live so I can laugh at it in the future.
 
 
 Classic snake game made in Java.
